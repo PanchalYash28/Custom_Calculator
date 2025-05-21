@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/65151f68-ac55-4199-bca1-6cb28ebe19f0
 **Calculator Android App**
 This is a simple and user-friendly calculator Android app designed for basic arithmetic operations. The app features a clean interface and a convenient calculation history panel. Below you'll find usage instructions, features, known issues, and contribution guidelines.
 
-****Features****
+********Features********
 
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
 
